@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1744389433 source:d:\ltnc\lamgame2d\lamgame2d\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
+1744389433 d:\ltnc\lamgame2d\lamgame2d\defs.h
+
+1744383673 d:\ltnc\lamgame2d\lamgame2d\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1744383673 source:d:\ltnc\lamgame2d\lamgame2d\graphic.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"graphics.h"
+
