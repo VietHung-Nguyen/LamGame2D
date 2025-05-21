@@ -32,8 +32,10 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="defs.h" />
-		<Unit filename="graphic.cpp" />
+		<Unit filename="graphics.cpp" />
 		<Unit filename="graphics.h" />
+		<Unit filename="logic.cpp" />
+		<Unit filename="logic.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

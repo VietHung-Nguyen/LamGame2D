@@ -1,21 +1,50 @@
 # depslib dependency file v1.0
-1744389433 source:d:\ltnc\lamgame2d\lamgame2d\main.cpp
+1747836345 source:d:\ltnc\lamgame2d\lamgame2d\main.cpp
 	<iostream>
+	<math.h>
 	<SDL.h>
 	<SDL_image.h>
 	"defs.h"
 	"graphics.h"
+	"logic.h"
 
-1744389433 d:\ltnc\lamgame2d\lamgame2d\defs.h
+1746128801 d:\ltnc\lamgame2d\lamgame2d\defs.h
 
-1744383673 d:\ltnc\lamgame2d\lamgame2d\graphics.h
+1745402723 d:\ltnc\lamgame2d\lamgame2d\graphics.h
 	<SDL.h>
 	<SDL_image.h>
+	<vector>
 	"defs.h"
 
-1744383673 source:d:\ltnc\lamgame2d\lamgame2d\graphic.cpp
+1744825226 source:d:\ltnc\lamgame2d\lamgame2d\graphic.cpp
 	<SDL.h>
 	<SDL_image.h>
 	<iostream>
+	<vector>
+	"graphics.h"
+
+1746128578 d:\ltnc\lamgame2d\lamgame2d\logic.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"defs.h"
+	"graphics.h"
+
+1746128578 source:d:\ltnc\lamgame2d\lamgame2d\logic.cpp
+	<iostream>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"defs.h"
+	"graphics.h"
+	"logic.h"
+
+1745403228 source:d:\ltnc\lamgame2d\lamgame2d\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
 	"graphics.h"
 
